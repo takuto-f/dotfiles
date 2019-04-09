@@ -1,3 +1,6 @@
+# Java settings
+export JAVA_HOME=`/usr/libexec/java_home -v 1.8`
+
 # HUGO settings
 
 # nodebrew settings
@@ -6,4 +9,4 @@ export NODEBREW_ROOT=/usr/local/var/nodebrew
 export PATH=/usr/local/var/nodebrew/current/bin:$PATH
 
 # output message
-echo ".bashrc read"
+echo "my .bashrc read"
